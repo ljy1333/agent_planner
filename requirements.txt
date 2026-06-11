@@ -4,9 +4,10 @@ langchain-openai
 langchain-core
 langchain-chroma
 langchain-community
-chromadb
+chromadb==0.5.23
 pypdf
 ics
 openai
 python-dotenv
 requests
+protobuf==5.29.5
