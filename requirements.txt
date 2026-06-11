@@ -1,1 +1,12 @@
-
+streamlit
+langchain
+langchain-openai
+langchain-core
+langchain-chroma
+langchain-community
+chromadb
+pypdf
+ics
+openai
+python-dotenv
+requests
